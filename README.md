@@ -1,2 +1,4 @@
-#Practice_coding
-##Project for calculator.cpp
+Practice_coding
+=====================
+Project for calculator.cpp
+----------------------------
